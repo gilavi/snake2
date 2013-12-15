@@ -2,6 +2,7 @@
 #include<time.h>
 #include "windows.h"
 using namespace std;
+// Good :-) 
 char map[10][20] = {
 	"###################",
 	"#@................#",
